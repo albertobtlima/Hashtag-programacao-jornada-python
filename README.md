@@ -4,6 +4,8 @@
 
 Curso dividido em quatro aulas onde em cada uma foi desenvolvido um projeto diferente.
 
+---
+
 **Python Power Up: Automação de Tarefas**
 
 Desenvolvido um programa de automação para cadastrar produtos em um sistema online a partir de planilhas.
